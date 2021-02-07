@@ -1,6 +1,7 @@
 # gulp-project
 
 Simple project with gulp and Scss
+
 ##Before starting the project, you need to install the packages with the command
 npm i
 
